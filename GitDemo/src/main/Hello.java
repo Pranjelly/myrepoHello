@@ -21,6 +21,7 @@ public class Hello {
 	      System.out.println(num1*num2);
 	}
 	
+
 	public static void mod(int num1,int num2){
 	      System.out.println(num1%num2);
 	}
@@ -35,5 +36,9 @@ public class Hello {
 	 
 	public static void cude(int num1){
 		System.out.println(num1*num1*num1);
+	}
+	
+	public static void area(int lenght , int breath){
+		System.out.println(lenght * breath);
 	}
 }
