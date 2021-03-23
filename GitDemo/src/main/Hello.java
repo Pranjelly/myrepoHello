@@ -20,4 +20,20 @@ public class Hello {
 	public static void prod(int num1,int num2){
 	      System.out.println(num1*num2);
 	}
+	
+	public static void mod(int num1,int num2){
+	      System.out.println(num1%num2);
+	}
+	
+	public static void div(int num1,int num2){
+	      System.out.println(num1/num2);
+	}
+	
+	public static void square(int num1){
+		System.out.println(num1*num1);
+	}
+	 
+	public static void cude(int num1){
+		System.out.println(num1*num1*num1);
+	}
 }
