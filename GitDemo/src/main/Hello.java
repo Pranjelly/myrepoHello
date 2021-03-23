@@ -20,4 +20,8 @@ public class Hello {
 	public static void prod(int num1,int num2){
 	      System.out.println(num1*num2);
 	}
+	
+	public static void area(int lenght , int breath){
+		System.out.println(lenght * breath);
+	}
 }
