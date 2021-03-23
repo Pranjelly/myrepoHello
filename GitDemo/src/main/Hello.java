@@ -48,5 +48,8 @@ public class Hello {
 	
 	public static void branchFunct(int num1){
 		System.out.println("branch function");
+  }
+	public static void masterFunct(int num1){
+		System.out.println("master function");
 	}
 }
