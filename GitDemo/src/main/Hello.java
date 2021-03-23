@@ -45,4 +45,8 @@ public class Hello {
 	public static void area(int lenght , int breath){
 		System.out.println(lenght * breath);
 	}
+	
+	public static void masterFunct(int num1){
+		System.out.println("master function");
+	}
 }
